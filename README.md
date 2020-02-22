@@ -7,13 +7,16 @@ Run application using "npm start"
 
 api's
 1.  method:POST
-    url:/short
+
+    url: /short 
+    
     body: {
         url:'http://www.google.com'
     }
    
 
 2.   method:GET
-        url:/:shortUrl
+
+        url: /:shortUrl
        
    
